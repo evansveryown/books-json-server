@@ -1,12 +1,74 @@
 {
-  "apiEndpoint" : [
+  "books": [
     {
-      "name" : "UMA",
-      "skills" : ["javaScript", "node.js", "react.js"]
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "status": "Read",
+      "rating": 5
     },
     {
-      "name":"RADHA",
-      "skills" : ["Adobe Illustrator", "Adobe After effects"]
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "status": "Read",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "status": "To Read",
+      "rating": 0
+    },
+    {
+      "id": 6,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "status": "Read",
+      "rating": 3
+    },
+    {
+      "title": "Shamba la wanyama",
+      "author": "asdasd",
+      "status": "To Read",
+      "rating": 0,
+      "id": 8
+    },
+    {
+      "title": "Diary of a Wimpy kid",
+      "author": "Fred Kainy",
+      "status": "To Read",
+      "rating": 0,
+      "id": 9
+    },
+    {
+      "title": "Romeo and Juliet",
+      "author": "William Shakespear",
+      "status": "To Read",
+      "rating": 0,
+      "id": 10
+    },
+    {
+      "title": "Merchant of Venice",
+      "author": "William Shakespear",
+      "status": "To Read",
+      "rating": 0,
+      "id": 11
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "status": "To Read",
+      "rating": 0,
+      "id": 12
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "status": "To Read",
+      "rating": 0,
+      "id": 14
     }
   ]
 }
